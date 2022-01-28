@@ -1,4 +1,7 @@
-welcome idk
+welcome 
+
+this is where i keep personal stuff
+not much yet tho
 
 <!---
 rhe4n/rhe4n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
