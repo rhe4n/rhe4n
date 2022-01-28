@@ -1,6 +1,7 @@
 welcome 
 
 this is where i keep personal stuff
+
 not much yet tho
 
 <!---
